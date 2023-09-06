@@ -1,7 +1,7 @@
 import select
 import socket
 
-IP='2a10:8012:11:d55c:e1a6:3202:258a:9651'
+IP=' *** IPv6 server address ***'
 PORT=8822
 
 # Creating a server
